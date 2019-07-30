@@ -38,3 +38,17 @@
   font-size: 2.75rem;
   padding: 1rem;
 }
+
+.post-list {
+  background-color: #e6e6e6;
+  margin: 1.2rem 0;
+  padding: 1rem;
+}
+
+.post-list h3 {
+  margin-top: 0.5rem;
+}
+
+.post-list p {
+  margin-bottom: 0;
+}
