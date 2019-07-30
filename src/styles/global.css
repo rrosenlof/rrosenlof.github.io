@@ -19,3 +19,13 @@
 .card-link:hover {
     border-color: #ff483b;
 }
+
+.work-section {
+    background-color: #e6e6e6;
+    margin: 1.2rem;
+    padding: 0.75rem;
+}
+
+.work-section h3 {
+    margin-top: 0.5rem;
+}

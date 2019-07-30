@@ -8,7 +8,7 @@ import Contact from "../components/contact";
 const IndexPage = () => (
   <Layout>
     <h1>Hello!</h1>
-    <p>I'm a student in the Masters of Information Systems Management at Brigham Young University in Provo, Utah. Look around at some things that I've worked on and that I am interested in!</p>
+    <p>I'm a student in the Masters of Information Systems Management program at Brigham Young University in Provo, Utah. Look around at some things that I've worked on and that I am interested in!</p>
     {/* <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image /> 
     </div> */}
