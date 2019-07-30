@@ -1,31 +1,35 @@
 .row {
-    display: flex;
+  display: flex;
 }
 
 .card-link {
-    background-color:#e6e6e6;
-    margin: 1.2rem;
-    padding: 0.5rem;
-    border-color:  #e6e6e6;
-    border-style: solid;
-    border-width: 0.3rem;
-    max-width: 250px;
+  background-color:#e6e6e6;
+  margin: 1.2rem;
+  padding: 0.5rem;
+  border-color:  #e6e6e6;
+  border-style: solid;
+  border-width: 0.3rem;
+  max-width: 250px;
 }
 
 .card-link p {
-    color: hsla(0,0%,0%,0.9);
+  color: hsla(0,0%,0%,0.9);
 }
 
 .card-link:hover {
-    border-color: #ff483b;
+  border-color: #ff483b;
 }
 
 .work-section {
-    background-color: #e6e6e6;
-    margin: 1.2rem;
-    padding: 0.75rem;
+  background-color: #e6e6e6;
+  margin: 1.2rem;
+  padding: 0.75rem;
 }
 
 .work-section h3 {
-    margin-top: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.site-links ul a{
+  padding: 0 1rem;
 }
