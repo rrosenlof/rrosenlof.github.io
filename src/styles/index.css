@@ -3,14 +3,19 @@
 }
 
 .card-link {
-    background-color: rgb(230, 236, 255);
+    background-color:#e6e6e6;
     margin: 1.2rem;
     padding: 0.5rem;
-    border-color:  rgb(230, 236, 255);
+    border-color:  #e6e6e6;
     border-style: solid;
     border-width: 0.3rem;
+    max-width: 250px;
+}
+
+.card-link p {
+    color: hsla(0,0%,0%,0.9);
 }
 
 .card-link:hover {
-    border-color: rgb(127, 159, 255);
+    border-color: #ff483b;
 }

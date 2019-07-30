@@ -14,7 +14,7 @@ const Header = ({ siteTitle }) => (
     margin: `1.5rem auto`,
     maxWidth: 800,
     padding: `1.45rem 1.0875rem`,
-    backgroundColor: `#e6ecff`
+    backgroundColor: `#e6e6e6`
     }}
   >
     <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}>
