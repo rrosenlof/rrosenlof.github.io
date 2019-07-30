@@ -33,3 +33,8 @@
 .site-links ul a{
   padding: 0 1rem;
 }
+
+.contact ul a {
+  font-size: 2.75rem;
+  padding: 1rem;
+}
