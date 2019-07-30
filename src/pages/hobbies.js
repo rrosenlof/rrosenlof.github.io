@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SiteLinks from "../components/siteLinks"
 
+
 const HobbiesPage = () => (
   <Layout>
     <h1>Hobbies</h1>
