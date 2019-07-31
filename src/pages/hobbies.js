@@ -27,7 +27,7 @@ query {
 const HobbiesPage = ({ data }) => (
   <Layout>
     <h1>Hobbies</h1>
-    <p>Here are some of hobbies:</p>
+    <p>Here are some of my hobbies:</p>
     {data.allMarkdownRemark.edges.map(({ node }) => (
       <Link
         to={node.fields.slug}

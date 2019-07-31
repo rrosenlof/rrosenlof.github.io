@@ -10,8 +10,9 @@ const ListLink = props => (
 
 const Header = ({ siteTitle }) => (
   <header style={{ 
-    marginBottom: `1.5rem`,
     margin: `1.5rem auto`,
+    marginBottom: `1.5rem`,
+    marginTop: `0`,
     maxWidth: 800,
     padding: `1.45rem 1.0875rem`,
     backgroundColor: `#e6e6e6`
