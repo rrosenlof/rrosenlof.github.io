@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 export default ({ data }) => {
   const post = data.markdownRemark
   const cat = post.frontmatter.category
-  console.log(data)
+  // console.log(data)
   return (
     <Layout>
       <div>
