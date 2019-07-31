@@ -6,7 +6,7 @@ const ProjectsPage = () => (
   <Layout>
     <h1>Projects</h1>
     <p>Here are a few projects that I have worked on at work, school, and in my free time:</p>
-    <p>List of blog .md posts</p>
+    <p><b>More to come here soon...</b></p>
     <SiteLinks></SiteLinks>
   </Layout>
 )
