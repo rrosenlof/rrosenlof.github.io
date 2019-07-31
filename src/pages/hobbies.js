@@ -2,7 +2,6 @@ import React from "react"
 import Layout from "../components/layout"
 import SiteLinks from "../components/siteLinks"
 import { graphql, Link } from "gatsby"
-import { rhythm } from "../utils/typography"
 
 export const query = graphql`
 query {
@@ -12,6 +11,7 @@ query {
         id
         frontmatter {
           title
+          description
         }
         fields {
           slug
@@ -32,11 +32,13 @@ const HobbiesPage = ({ data }) => (
       <Link
         to={node.fields.slug}
       >
-        <div class="post-list" key={node.id}>
-          <h3>
-            {node.frontmatter.title}{" "}
-          </h3>
-          <p>{node.excerpt}</p>
+        <div class="post-list" key={node.id} >
+          <div style={{ display:`inline-block` }}>
+            <h3>
+              {node.frontmatter.title}{" "}
+            </h3>
+            <p style={{float: `right`}}>{node.frontmatter.description}</p>
+          </div>
         </div>
       </Link>
     ))}

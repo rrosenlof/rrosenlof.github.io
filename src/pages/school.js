@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SiteLinks from "../components/siteLinks";
-
+/* eslint-disable */
 const SchoolPage = () => (
   <Layout>
     <h1>School</h1>
