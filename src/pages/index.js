@@ -23,21 +23,22 @@ export default (props) => {
           <p>Read about my coursework at BYU</p>
         </div>
       </Link>
-    </div>
-    <div class="row">
-    <Link to="/projects/">
+      <Link to="/projects/">
         <div class="card-link">
           <h4>Projects</h4>
           <p>See some projects that I have worked on</p>
         </div>
       </Link>
+    </div>
+    {/* <div class="row">
+      
       <Link to="/hobbies/">
         <div class="card-link">
           <h4>Hobbies</h4>
           <p>Learn more about my interests</p>
         </div>
       </Link>
-    </div>
+    </div> */}
     <div class="home-picture">
       <Img fluid={props.data.ross2.childImageSharp.fluid} />
     </div>

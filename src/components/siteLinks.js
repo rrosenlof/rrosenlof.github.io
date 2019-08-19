@@ -11,7 +11,7 @@ const SiteLinks = () => (
         <Link to="/work/">Work</Link>
         <Link to="/school/">School</Link>
         <Link to="/projects/">Projects</Link>
-        <Link to="/hobbies/">Hobbies</Link>
+        {/* <Link to="/hobbies/">Hobbies</Link> */}
       </ul>
     </div>
 )

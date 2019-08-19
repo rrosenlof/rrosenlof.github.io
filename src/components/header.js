@@ -25,7 +25,7 @@ const Header = ({ siteTitle }) => (
         <ListLink to="/work/">Work</ListLink>
         <ListLink to="/school/">School</ListLink>
         <ListLink to="/projects/">Projects</ListLink>
-        <ListLink to="/hobbies/">Hobbies</ListLink>
+        {/* <ListLink to="/hobbies/">Hobbies</ListLink> */}
     </ul>
   </header>
 )
