@@ -1,6 +1,6 @@
 ---
 title: "Jenkins Database Maintenance"
-date: "2019-08-19"
+date: "2019-07-04"
 category: "projects"
 description: "A Jenkins job that cleaned out an application's database"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Goat Herder"
-date: "2019-08-19"
+date: "2018-09-29"
 category: "projects"
 description: "24-hour case competition using large datasets"
 ---
@@ -39,9 +39,7 @@ Now is this a perfect ranking system? Probably not. The game played by Bob Petti
 
 Using this data, we made a simple web application to show the top of the list and a feature to compare any two players. Ever wonder who is better between Allen Iverson and Steph Curry? Shaq and Joel Embiid? Scottie Pippen and Kawhi Leonard? (Steph, Shaq, and Kawhi according to our rankings...) The site lets you pick any two players and compare them. The metrics we tracked for each player were shown under their name and image.
 
-![Goat Herder interface](src/posts/projects/goatHerder.PNG)
-
-<img src="src/posts/projects/goatHerder.PNG" >
+![Goat Herder interface](./goatHerder.PNG)
 
 ## Results
 We were able to do all of this in the 24-hour time limit. Our efforts paid off well, as we placed 2nd of around 15 other teams of BYU IS teams. It was fun to compare all these players and put some data behind these hypothetical questions. 

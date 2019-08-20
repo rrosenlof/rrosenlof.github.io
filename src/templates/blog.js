@@ -5,12 +5,11 @@ import Layout from "../components/layout"
 export default ({ data }) => {
   const post = data.markdownRemark
   const cat = post.frontmatter.category
-  // console.log(data)
   return (
     <Layout>
       <div>
         <h1>{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div class="blog-post" dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
       View more posts about my <Link to={cat}>{cat}</Link>
       <br/>

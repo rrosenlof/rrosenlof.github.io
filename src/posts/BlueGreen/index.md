@@ -1,6 +1,6 @@
 ---
 title: "Blue-Green Deployment"
-date: "2019-08-19"
+date: "2019-06-20"
 category: "projects"
 description: "Pivotal Cloud Foundry implementation of Blue-Green deployment"
 ---

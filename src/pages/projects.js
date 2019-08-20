@@ -5,7 +5,7 @@ import { graphql, Link } from "gatsby"
 
 export const query = graphql`
 query {
-  allMarkdownRemark {
+  allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
     edges {
       node {
         id
@@ -26,7 +26,6 @@ const ProjectsPage = ({ data }) => (
   <Layout>
     <h1>Projects</h1>
     <p>Here are a few projects that I have worked on at work, school, and in my free time:</p>
-    <p><b>More to come here soon...</b></p>
     {data.allMarkdownRemark.edges.map(({ node }) => (
       <Link
         to={node.fields.slug}
