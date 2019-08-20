@@ -20,14 +20,14 @@ We made a login page and prevented users who were not authorized from accessing 
 #### Dashboard
 All users are welcomed by a dashboard once logged in. This view shows the different options each user can perform
 
-((((image))))
+![Dashboard interface](./dashboard.png)
 
 This dashboard, for instance, is for customers. They start the workflow by clicking 'Start Order' and filling out a form. The request is then processed by other employees in the company
 
 #### Status Bar
 Customers and employees can track any order that has been made.
 
-((((image))))
+![Status bar interface](./progress.png)
 
 As work is completed on the order, the status is updated. We drew inspiration for this feature from companies like Dominos that let you track your pizza. These changes to the order are tracked on the order object in our database.
 

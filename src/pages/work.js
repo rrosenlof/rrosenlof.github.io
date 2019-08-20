@@ -8,7 +8,7 @@ const WorkPage = () => (
     <p>Here's the work experience that I have had in the past few years:</p>
     <div class="work-section">
       <h3>FedEx &#128230;</h3>
-      <p>For 10 weeks in the summer of 2019, I interned with <a href="https://www.fedex.com/">FedEx</a> in Colorado Springs, Colorado. I was able to be involved with full stack development on two agile scrums teams. We improved and maintained several applications dealing with international clearance for shipments.</p>
+      <p>For 10 weeks in the summer of 2019, I interned with <a href="https://www.fedex.com/">FedEx</a> in Colorado Springs, Colorado. I was able to be involved with full stack development on two agile scrum teams. We improved and maintained several applications dealing with international clearance for shipments.</p>
       <p>Over the internship I was able to learn about and use Java (Spring Framework), Angular, PCF, Jenkins, AppD, and Splunk. I had no experience with these tools beforehand, and diving into some real code and pairing with other employees helped me learn more than I could at school or on my own.</p>
       <p>Our teams were able to improve performance of applications by tracking message counts in Splunk. We reduced pending message counts from around 20,000 down to an average less than 300.</p>
       <p>I was able to assist in implementation of Blue-Green deployment on PCF to eliminate application downtime and reduce risks. This project facilitated pushing applications for FedEx shipping centers, which run almost around the clock and rely on our software.</p>
