@@ -19,8 +19,9 @@ For our large dataset, we scraped player stats from all seasons of the NBA from 
 
 In summary, score more points, win more games.
 
-We then set out to give a ranking for each of these metrics, on a scale of 100, to each player. This was inspired by NBA 2K games rating system. After setting a baseline of 100 for the all-time leader in each factor, we gave players a corresponding score relative to the baseline. Combining these scores, with the factors, gave us a combine ranking
-Our top ten of all time, according to our algorithm:
+We then set out to give a ranking for each of these metrics, on a scale of 100, to each player. This was inspired by NBA 2K games rating system. After setting a baseline of 100 for the all-time leader in each factor, we gave players a corresponding score relative to the baseline. Combining these scores, with the factors, gave us a combine ranking. 
+
+Here's our top ten of all time, according to our algorithm:
 
 | Ranking        | Player           | Rating  |
 | ------------- |:-------------:| -----:|
