@@ -1,6 +1,6 @@
 ---
 title: "Jeopardy"
-date: "2020-11-03"
+date: "2020-11-05"
 category: "projects"
 description: "Flask API and Svelte app for random Jeopardy! clues"
 ---

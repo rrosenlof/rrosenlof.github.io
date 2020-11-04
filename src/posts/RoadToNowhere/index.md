@@ -1,6 +1,6 @@
 ---
 title: "Road to Nowhere"
-date: "2020-11-03"
+date: "2020-11-04"
 category: "projects"
 description: "A simple game for guessing the locations of various aerial views"
 ---
