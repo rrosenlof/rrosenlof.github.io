@@ -8,10 +8,11 @@ const WorkPage = () => (
     <p>Here's the work experience that I have had in the past few years:</p>
     <div class="work-section">
       <h3>BYU Administrative Solutions Group &#127979;</h3>
-      <p>Starting in the fall of 2019, I have worked for in the Administrative department at BYU as an application developer.</p>
-      <p>My current project is creating a service for full-time employees to nominate co-workers for various awards. The website is written in PHP using the Zend framework. Some topics I've been able to learn more about with this project are Ajax functions, reading and writing to databases, and general CSS work.</p>
-      <p>One of my past projects was updating a website that all full-time employees (~3,000 people) at the university use for performance review at the end of each year. This project is also written in the Zend framework. Before this job, I had never worked with PHP, so it's been a fun time learning a new language!</p>
-      <p>In this position, I will also be part of a team that updates the website from the LAMP stack to the MEAN stack. I also help provide IT support for about 70 full-time and student employees when needed. That aspect of the job has been surprisingly fun. I enjoy solving problems and getting out from behind the desk to talk with people.</p>
+      <p>Starting in the fall of 2019, I have worked for in the Administrative Department at BYU as an application developer.</p>
+      <p>My current project is creating a service for full-time employees to request cash or gift cards for various purposes across campus. The project is written in Angular 9 on the front end with a Node.JS backend server written in TypeScript. The project also uses a Postgres database. This is my first time working with Node, which has been very useful to learn. I'm still in awe when my API calls work 😁</p>
+      <p>Some of my past projects include writing a website for full-time employees to nominate co-workers for various awards and updating a website that all full-time employees (~3,000 people) at the university use for performance review at the end of each year. Both of these projects were written in PHP using the Zend Framework. We are in the process of updating these sites to the MEAN stack, which I work on from time to time.</p>
+      <p>We also host our projects on RHEL servers, and I have been able to learn the ins and outs of server maintenance and hosting.</p>
+      <p>I also help provide IT support for about 70 full-time and student employees when needed. That aspect of the job has been surprisingly fun. I enjoy solving problems and getting out from behind the desk to talk with people.</p>
     </div>    
     <div class="work-section">
       <h3>FedEx &#128230;</h3>
