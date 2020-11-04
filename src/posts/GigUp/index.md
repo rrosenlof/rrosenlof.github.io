@@ -4,7 +4,7 @@ date: "2020-02-20"
 category: "projects"
 description: "Flutter app for the 2020 BYU Mobile App Competition"
 ---
-In winter of 2020, I worked with a group of three other MISM students to create a mobile app for Brigham Young University's Mobile App Competition..
+In winter of 2020, I worked with a group of three other MISM students to create a mobile app for Brigham Young University's Mobile App Competition.
 ​
 ## Background
 Every year, BYU's [Rollins Center](https://marriottschool.byu.edu/cet/) puts on a Mobile App Competition. The rules are pretty wide open and lots of cool apps are submitted to the contest. I formed a group with some fellow students a little less than a month before the deadline. We started working on a project called "Gig Up", an app for freelance workers to bid on projects posted by users in their communities.
